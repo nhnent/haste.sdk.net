@@ -36,6 +36,12 @@ This SDK is compatible in Unity3D.
 ## Documetation
 - Reference to the [Wiki section of GitHub](https://github.com/nhnent/toast-haste.sdk.dotnet/wiki).
 
+## Repositories
+- Server
+    https://github.com/nhnent/toast-haste.framework
+- Client
+    - Unity SDK : https://github.com/nhnent/toast-haste.sdk.dotnet
+
 ## Roadmap
 - At NHN Entertainment, we service Toast Cloud Real-time Multiplayer(a.k.a. RTM) developed by TOAST Haste.
 - So, We will try to improve performance and convenience according to this roadmap.
